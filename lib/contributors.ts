@@ -64,4 +64,10 @@ export const CONTRIBUTORS: Contributor[] = [
     github: "DenizOkcu",
     bio: "Deniz is working on mobile and browser games. In his free time he enjoys building AI-powered productivity tools.",
   },
+  {
+  name: "Nimish C",
+  photo: "nimish-c.jpeg",  
+  github: "nimishchaudhari", 
+  bio: "Brief description of your contributions" 
+}
 ];
